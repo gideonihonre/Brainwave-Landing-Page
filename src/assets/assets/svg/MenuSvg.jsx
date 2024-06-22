@@ -25,7 +25,7 @@ const MenuSvg = ({ openNavigation }) => {
         transform={`rotate(${openNavigation ? "-45" : "0"})`}
       />
     </svg>
-  );
-};
+  )
+}
 
-export default MenuSvg;
+export default MenuSvg
