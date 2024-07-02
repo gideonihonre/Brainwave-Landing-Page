@@ -1,6 +1,6 @@
-import { brainwaveWhiteSymbol, gradient, play } from "../../assets";
-import ChatBubbleWing from "../../assets/svg/ChatBubbleWing";
+import { brainwaveWhiteSymbol, gradient, play } from "../../assets/assets"
 
+import ChatBubbleWing from "../../assets/assets/svg/ChatBubbleWing"
 export const Gradient = () => {
   return (
     <div className="absolute top-0 -left-[10rem] w-[56.625rem] h-[56.625rem] opacity-50 mix-blend-color-dodge pointer-events-none">
@@ -12,8 +12,8 @@ export const Gradient = () => {
         alt="Gradient"
       />
     </div>
-  );
-};
+  )
+}
 
 export const PhotoChatMessage = () => {
   return (
@@ -21,8 +21,8 @@ export const PhotoChatMessage = () => {
       Hey Brainwave, enhance this photo
       <ChatBubbleWing className="absolute left-full bottom-0" />
     </div>
-  );
-};
+  )
+}
 
 export const VideoChatMessage = () => {
   return (
@@ -44,8 +44,8 @@ export const VideoChatMessage = () => {
         pathClassName="fill-n-6"
       />
     </div>
-  );
-};
+  )
+}
 
 export const VideoBar = () => {
   return (
@@ -62,5 +62,5 @@ export const VideoBar = () => {
         <div className="w-1/2 h-0.5 bg-color-1"></div>
       </div>
     </div>
-  );
-};
+  )
+}

@@ -1,4 +1,4 @@
-import { lines } from "../../assets";
+import { lines } from "../../assets/assets"
 
 export const LeftLine = () => {
   return (
@@ -11,8 +11,8 @@ export const LeftLine = () => {
         alt="Lines"
       />
     </div>
-  );
-};
+  )
+}
 
 export const RightLine = () => {
   return (
@@ -25,5 +25,5 @@ export const RightLine = () => {
         alt="Lines"
       />
     </div>
-  );
-};
+  )
+}
