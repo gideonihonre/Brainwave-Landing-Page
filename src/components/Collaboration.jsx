@@ -1,4 +1,4 @@
-import Section from "./Section.jsx"
+import Section from "./Section"
 import { collabContent } from "../constants"
 import { check } from "../assets/assets"
 import Button from "./Button"

@@ -1,4 +1,4 @@
-import Section from "./Section.jsx"
+import Section from "./Section"
 import { socials } from "../constants"
 
 const Footer = () => {

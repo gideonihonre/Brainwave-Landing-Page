@@ -1,5 +1,5 @@
 import Heading from "./Heading"
-import Section from "./Section.jsx"
+import Section from "./Section"
 import { benefits } from "../constants"
 import { GradientLight } from "./design/Benefits"
 import Arrow from "../assets/assets/svg/Arrow"

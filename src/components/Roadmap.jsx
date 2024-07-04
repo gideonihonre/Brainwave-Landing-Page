@@ -1,4 +1,4 @@
-import Section from "./Section.jsx"
+import Section from "./Section"
 import Heading from "./Heading"
 import { roadmap } from "../constants"
 import { grid, check2, loading1 } from "../assets/assets"

@@ -1,4 +1,3 @@
-import Section from "./Section.jsx"
 import Heading from "./Heading"
 import { service1, service2, check, service3 } from "../assets/assets"
 import { brainwaveServices, brainwaveServicesIcons } from "../constants"
@@ -9,6 +8,8 @@ import {
   VideoBar,
   VideoChatMessage
 } from "./design/Services"
+import Section from "./Section"
+
 const Services = () => {
   return (
     <Section id="how-to-use">

@@ -1,4 +1,4 @@
-import Section from "./Section.jsx"
+import Section from "./Section"
 import { curve, heroBackground, robot } from "../assets/assets"
 import Button from "./Button"
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero"
