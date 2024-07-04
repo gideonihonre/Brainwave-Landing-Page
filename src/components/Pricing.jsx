@@ -1,5 +1,5 @@
 import { smallSphere, stars } from "../assets/assets"
-import Section from "./Section"
+import Section from "./Section.jsx"
 import Heading from "./Heading"
 import PricingList from "./PricingList"
 import { LeftLine, RightLine } from "./design/Pricing"

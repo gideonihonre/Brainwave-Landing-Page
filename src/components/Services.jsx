@@ -1,4 +1,4 @@
-import Section from "./Section"
+import Section from "./Section.jsx"
 import Heading from "./Heading"
 import { service1, service2, check, service3 } from "../assets/assets"
 import { brainwaveServices, brainwaveServicesIcons } from "../constants"
